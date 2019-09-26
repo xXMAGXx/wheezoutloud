@@ -44,6 +44,8 @@
 			
 			<!--put all the videos/ content above this line. this has email info thats supposed to be at the bottom-->
 			<center><h5 class="links">IF YOU WANT TO BE OUR NEXT GUEST PLEASE E-MAIL US AT <a href= "mailto:wheezingoutloud@gmail.com?subject=subject text">wheezingoutloud@gmail.com</a></h5></center>
+			
+			<center><h5><a href="https://xxmagxx.github.io/About-Us/">About Us</a></h5></center>
 
 	</body>
 
