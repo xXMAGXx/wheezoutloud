@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 
 	<head>
@@ -39,7 +39,6 @@
 			
 			<!--What i want to do is to put the title or person we are interviewing on top of the video-->
 			
-			<hr>
 			<center><h4 class="links">You can also watch our videos on YouTube <a href="https://www.youtube.com/channel/UCap2nLDQqpiMnuilYHhLjuw?view_as=subscriber">@Wheezing Out Loud TV</a></h4></center>
 			<center><img src=""></center>
 			
