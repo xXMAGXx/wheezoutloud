@@ -26,7 +26,7 @@
 			<h1 class="fixed">WELCOME TO WHEEZ OUT LOUD TV</h1>
 		</div>
 		
-		<center><img src="mech.jpg" alt="profile picture"></center>
+		<!--<center><img src="mech.jpg" alt="profile picture"></center>-->
 		
 		<div>
 		<h3>OUR GOAL IS TO MAKE YOU LAUGH SO HARD THAT YOU WHEEZ, SO PLS ENJOY THE VIDS AS MUCH AS WE LIKE MAKING THEM!!</h3>
