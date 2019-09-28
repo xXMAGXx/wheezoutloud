@@ -3,6 +3,9 @@
 
 	<head>
 		<title>wheezingoutloud.com</title>
+		<script>
+			alert('wassup');
+		</script>
 		
 		<style>
 		body{
