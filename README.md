@@ -4,7 +4,7 @@
 	<head>
 		<title>wheezingoutloud.com</title>
 		<script>
-			alert('wassup');
+			alert('wassup');<!--This makes a pop up before the viewer can look at the website, it's pretty cool-->
 		</script>
 		
 		<style>
